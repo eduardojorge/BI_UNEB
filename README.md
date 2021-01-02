@@ -16,3 +16,7 @@ Observer no código o caminho do arquivo de fonte de dados em Access e altere pa
 
 conn = pyodbc.connect(r'Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=c:\IC_2020\BI_Pesquisa.accdb;')
 
+O arquivo grafico_ruf.py
+
+Ira gerar o gráfico 
+
