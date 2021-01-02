@@ -5,7 +5,7 @@ Este projeto apresenta um conjunto de Gráficos com dados da Pesquisa, Pós-Grad
 
 O arquivo de dados com as Dimensões, Fatos e ODS estão no Arquivo do Microsoft Access
 
-O mdeolo de Dados dos Star Schema está representado na figura 
+O mdeolo de dados do Star Schema está representado na figura 
 
 ![Screenshot](modelo.png)
 
