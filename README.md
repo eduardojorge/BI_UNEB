@@ -19,3 +19,7 @@ conn = pyodbc.connect(r'Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=c:
 O arquivo grafico_ruf.py irá gerar o gráfico: 
 
 ![Screenshot](grafico_ruf.png)
+
+O arquivo grafico_projetos.py irá gerar o gráfico: 
+
+![Screenshot](grafico_projetos.png)
