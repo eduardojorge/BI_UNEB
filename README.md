@@ -8,5 +8,6 @@ O arquivo de dados com as dimensões, fatos e ODS estão no Arquivo do Microsoft
 As bibliotecas usadas em Python são:
 
 pip install pyodbc
+
 pip install matplotlib
 
