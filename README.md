@@ -1,7 +1,7 @@
 # BI_UNEB
 
 
-Este projeto apresenta um conjunto de Gráficos com dados da Pesquisa, Pós-Graduação e Inovação desenvolvidos em Python
+Este projeto apresenta um conjunto de Gráficos com dados da Pesquisa, Pós-Graduação e Inovação da UNEB de 2020 desenvolvidos em Python
 
 O arquivo de dados com as dimensões, fatos e ODS estão no Arquivo do Microsoft Access
 
@@ -20,3 +20,4 @@ O arquivo grafico_ruf.py
 
 Ira gerar o gráfico 
 
+![Screenshot](grafico_ruf.png)
