@@ -11,7 +11,7 @@ cursor = conn.cursor()
 D_SEM_CODIGO=1
 
 cursor.execute('select TOP 15 * from CUBO_GRUPO_PESQUISA where D_SEM_CODIGO=? ORDER BY QTD DESC', (D_SEM_CODIGO,) )
-i=0;
+i=0
 quantidade =[]
 labels=[]
 xs=[]
@@ -37,6 +37,7 @@ for x,y in zip(quantidade,labels):
 #print(quantidade)
 
 #print(labels)
+
 #plt.axis([2016, 2019, 0, 200]) # [xmin, xmax, ymin, ymax]
 plt.style.use("ggplot")
 plt.title("Top 15 Grupos de Pesquisa da UNEB  2020 (Fonte DGP)")
