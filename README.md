@@ -23,3 +23,7 @@ O arquivo grafico_ruf.py irá gerar o gráfico:
 O arquivo grafico_projetos.py irá gerar o gráfico: 
 
 ![Screenshot](grafico_projetos.png)
+
+O arquivo graficoXXXXXX.py irá gerar o gráfico: 
+
+![Screenshot](grafico_top_15.png)
