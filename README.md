@@ -24,6 +24,6 @@ O arquivo grafico_projetos.py irá gerar o gráfico:
 
 ![Screenshot](grafico_projetos.png)
 
-O arquivo graficoXXXXXX.py irá gerar o gráfico: 
+O arquivo top_grupos_pesquisa.py irá gerar o gráfico: 
 
 ![Screenshot](grafico_top_15.png)
