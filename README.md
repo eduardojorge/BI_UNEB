@@ -11,3 +11,8 @@ pip install pyodbc
 
 pip install matplotlib
 
+
+Observer no código o caminho do arquivo de fonte de dados em Access e altere para o local da sua máquia
+
+conn = pyodbc.connect(r'Driver={Microsoft Access Driver (*.mdb, *.accdb)};DBQ=c:\IC_2020\BI_Pesquisa.accdb;')
+
