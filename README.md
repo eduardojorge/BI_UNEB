@@ -3,7 +3,7 @@
 
 Este projeto apresenta um conjunto de Gráficos com dados da Pesquisa, Pós-Graduação e Inovação da UNEB de 2020 desenvolvidos em Python
 
-O arquivo de dados com as dimensões, fatos e ODS estão no Arquivo do Microsoft Access
+O arquivo de dados com as Dimensões, Fatos e ODS estão no Arquivo do Microsoft Access
 
 O mdeolo de Dados dos Star Schema está representado na figura 
 
