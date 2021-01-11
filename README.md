@@ -40,3 +40,9 @@ O arquivo top_grupos_pesquisa.py irá gerar o gráfico:
 O arquivo grafico_programas_pos.py irá gerar o gráfico: 
 
 ![Screenshot](grafico_programas_pos.png)
+
+
+O arquivo grafico_quantidade_programas_doutorado_nivel.py irá gerar o gráfico: 
+
+![Screenshot](grafico_quantidade_programas_doutorado_nivel.png)
+
