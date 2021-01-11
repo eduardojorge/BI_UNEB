@@ -46,7 +46,11 @@ O arquivo grafico_quantidade_programas_doutorado_nivel.py irá gerar o gráfico:
 
 ![Screenshot](grafico_quantidade_programas_doutorado_nivel.png)
 
-O arquivo grafico_quantidade_programas_mestrado_p_nivel.py irá gerar o gráfico: 
+O arquivo grafico_quantidade_programas_mestrado_nivel.py irá gerar o gráfico: 
 
 ![Screenshot](grafico_quantidade_programas_mestrado_p_nivel.png)
+
+O arquivo grafico_quantidade_programas_mestrado_nivel.py irá gerar o gráfico: 
+
+![Screenshot](grafico_quantidade_programas_mestrado_nivel.png)
 
